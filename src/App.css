@@ -1,0 +1,35 @@
+.App {
+  text-align: center;
+}
+.phonebookAdd {
+  border: 1px solid black;
+  padding: 20px;
+  margin-left: 20px;
+  width: 300px;
+}
+.phonebookAdd-label {
+  display: block;
+  margin-bottom: 20px;
+}
+.phonebookAdd-input {
+  display: block;
+}
+.phonebook-title {
+  margin-left: 20px;
+}
+.filter-label {
+  display: block;
+  margin-left: 20px;
+}
+.filter-input {
+  display: block;
+}
+.contact-list {
+  margin-left: 20px;
+}
+.contacts-item {
+  margin-bottom: 10px;
+}
+.contacts-item-name {
+  margin-right: 10px;
+}
